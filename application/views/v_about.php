@@ -2,7 +2,7 @@
     <h1><?php echo $judul ?></h1>
     <h4>Nama</h4>
     <ul type="disc">
-        <li >Nama : eprendi</li>
+        <li >Nama  : eprendi</li>
         <li>Umur           : 21TH</li>
         <li>Jenis Kelamin  : Pria</li>
         <li>Mahasiswa</li>
